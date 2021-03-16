@@ -41,7 +41,7 @@ and after that if you want to see the application you must run the command: ns r
 your application should be displayed.
 
 ------------
-cmd commands windows:
+4 cmd commands windows:
 
 cd otherdir/targetdir = change to targetdirecory
 dir = shows direcorys on your actuall path
