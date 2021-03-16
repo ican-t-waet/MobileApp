@@ -8,7 +8,7 @@
  3. install an emulator (optional)
  4. cmd commands
 ------
-install Node.js 
+1. install Node.js 
 https://nodejs.org/en/
 
 open your comandline (cmd)
@@ -19,13 +19,17 @@ run the command: npm -v
 
 ----
 
-install NativScript
+2. install NativScript
 
 run the command: npm install nativescript -g
 
 for sucess chech run the command: ns doctor
 
-Emulator: Bluestacks
+---
+
+3. install and set an Emulator: 
+
+Bluestacks
 
 download Bluestacks (android Emulation) https://www.bluestacks.com/de/index.html
 after install run the command: ns devices
