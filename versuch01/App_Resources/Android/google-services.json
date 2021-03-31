@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "494635076040",
+    "firebase_url": "https://wecan-t-waet-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wecan-t-waet",
+    "storage_bucket": "wecan-t-waet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494635076040:android:79142c58b0af7ff1f098fd",
+        "android_client_info": {
+          "package_name": "Cant.Wait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494635076040-a2ec2t4telrcoefbrt5nbs88b6o1tr0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_66VdvVNJw9kT_hGKNaeta8PxaeGfuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494635076040-a2ec2t4telrcoefbrt5nbs88b6o1tr0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494635076040-cgr7gk6sgs42enq71pd9aiu34ob5g4d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.application"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494635076040:android:52664a0b31270822f098fd",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494635076040-llsdb9g472t4krq29j8rtvfr75rrqhoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.application",
+            "certificate_hash": "18c22136f5e8b46b242d9b43142a47c48ccf03f9"
+          }
+        },
+        {
+          "client_id": "494635076040-pe6010565r2lnn6r32u24csvqmdj4je5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.application",
+            "certificate_hash": "c541c7720a0a2c1e585ab217c5b0e7e4024eb322"
+          }
+        },
+        {
+          "client_id": "494635076040-a2ec2t4telrcoefbrt5nbs88b6o1tr0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_66VdvVNJw9kT_hGKNaeta8PxaeGfuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494635076040-a2ec2t4telrcoefbrt5nbs88b6o1tr0h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494635076040-cgr7gk6sgs42enq71pd9aiu34ob5g4d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.application"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
