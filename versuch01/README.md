@@ -8,8 +8,6 @@
 # Install dependencies
 npm install
 
-# Preview on device
-tns preview
 
 # Build, watch for changes and run the application
 tns run
@@ -18,6 +16,12 @@ tns run
 tns debug <platform>
 
 # Build for production
-tns build <platform> --env.production
+tns build <platform> --bundle
+
+example for your bs emulator:
+
+tns build android --bundle
+
+;)
 
 ```
